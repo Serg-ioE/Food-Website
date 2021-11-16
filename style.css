@@ -1,0 +1,13 @@
+body{
+  background-image: url("https://wallpx.com/image/2021/01/minimalism-artwork-popsicle-ice-cream-pattern.jpg");
+}
+.float-left{
+  float:left;
+  margin-left: 250px;
+  margin-top:30px;
+}
+.float-right{
+  float:right;
+  margin-right: 250px;
+  margin-top:30px;
+}
